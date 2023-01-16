@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">City Finder</string>
+
+    <string name="hello_account_fragment">Fragment Account</string>
+
+    <string name="history_title">Historial de búsqueda</string>
+
+    <!-- TODO: Menu labels -->
+    <string name="menu_search">Explorar</string>
+    <string name="menu_history">Historial</string>
+    <string name="menu_account">Mi cuenta</string>
+
+    <string name="google_map_key">[[GOOGLE_MAP_API_KEY]]</string>
+</resources>
